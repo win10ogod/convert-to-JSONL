@@ -4,6 +4,12 @@
 Convert CSV, txt, json, pdf to jsonl, and provide a friendly graphical interface.
 Pull requests are welcome.
 
+多語言程式由ChatGPT翻譯。
+多語言簡介由deepl翻譯。
+Multilingual program translated by ChatGPT
+Multilingual introduction translated by deepl.
+ChatGPTが翻訳した多言語プログラム。
+deeplによって翻訳される多言語の導入。
 
 # convert-to-jsonl-ru.py
 這是俄文的程式。
