@@ -5,7 +5,7 @@ Convert CSV, txt, json, pdf to jsonl, and provide a friendly graphical interface
 Pull requests are welcome.
 
 
-# convert-to-jsonl-tw.py
+# convert-to-jsonl-ru.py
 這是俄文的程式。
 
 This is the Russian program.
